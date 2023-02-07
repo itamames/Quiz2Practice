@@ -1,19 +1,29 @@
 # Practice Quiz 2
 
 Q1) Suppose an ArrayList is implemented with an array, and the array doubles in size whenever the array fills up. Explain why adding an element to the end of the arraylist is considered a constant time operation in general.
-
+```text
+Todo
+```
 
 Q2) Suppose we have an ArrayList of N integer objects, sorted in increasing order. Consider the following algorithms for removing a particular Integer value from that ArrayList.
     * It is already known that this value is in the ArrayList.
     * Identify the best and worst case running times (using Big O) for each algorithm. Explain each of your answers.
 
   a) Algorithm I: Perform a linear search to find the value, starting from the BEGINNING of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
+```text
+Todo
+```
 
   b) Algorithm II: Perform a linear search to find the value, starting from the END of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
+```text
+Todo
+```
 
   c) Algorithm III: Perform a binary search to find the value. When the value is found, remove it by calling the ArrayList's remove(index) method.
 
-
+```text
+Todo
+```
 Q3) Consider the following method for the SinglyLinkedList class that works on a linked list.
 ```java
 public E mystery() {
