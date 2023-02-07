@@ -38,11 +38,17 @@ public E mystery() {
 ```
 
 a) What does this method do if there are an odd number of nodes? Explain by tracing this code with a list with 9 nodes.
-
+```text
+Todo
+```
 b) What happens with this code if there are an even number of nodes? Explain with an example. Modify the method to deal with this situation in a reasonable manner.
-
+```text
+Todo
+```
 c) What is the runtime complexity of this method in big-O notation if the list has n elements?
-
+```text
+Todo
+```
 
 Q4) Consider a variant of the singly linked list that contains a "dummy node" at the beginning of the list with no data (i.e. the data field is always null). 
 
