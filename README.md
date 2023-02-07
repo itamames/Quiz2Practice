@@ -7,11 +7,11 @@ Q2) Suppose we have an ArrayList of N integer objects, sorted in increasing orde
     * It is already known that this value is in the ArrayList.
     * Identify the best and worst case running times (using Big O) for each algorithm. Explain each of your answers.
 
-    a) Algorithm I: Perform a linear search to find the value, starting from the BEGINNING of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
+  a) Algorithm I: Perform a linear search to find the value, starting from the BEGINNING of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
 
-    b) Algorithm II: Perform a linear search to find the value, starting from the END of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
+  b) Algorithm II: Perform a linear search to find the value, starting from the END of the list. When the value is found, remove it by calling the ArrayList's remove(index) method.
 
-    c) Algorithm III: Perform a binary search to find the value. When the value is found, remove it by calling the ArrayList's remove(index) method.
+  c) Algorithm III: Perform a binary search to find the value. When the value is found, remove it by calling the ArrayList's remove(index) method.
 
 
 Q3) Consider the following method for the SinglyLinkedList class that works on a linked list.
